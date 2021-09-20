@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Xero.Shop.Infrastructure", "Xero.Shop.Infrastructure\Xero.Shop.Infrastructure.csproj", "{A23FC6BB-2BF3-4F76-AF08-C0BB009D3307}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Xero.Shop.Models", "Xero.Shop.Models\Xero.Shop.Models.csproj", "{F6E6DAB6-209C-4A58-89E9-E42F1AF50D40}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Xero.Shop.Repositories", "Xero.Shop.Repositories\Xero.Shop.Repositories.csproj", "{EF031F51-B15E-4CE3-906D-5FFE6A5004A2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Xero.Shop.Services", "Xero.Shop.Services\Xero.Shop.Services.csproj", "{A158A96F-F147-4B23-8450-0C043ABBF848}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RefactorThis", "RefactorThis\RefactorThis.csproj", "{0F9389DF-B077-4559-BBBB-BAE02D95D1AB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Xero.Shop.Web.API", "Xero.Shop.Web.API\Xero.Shop.Web.API.csproj", "{9CD684E7-477B-4C75-92FE-BF2CC7909DF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A23FC6BB-2BF3-4F76-AF08-C0BB009D3307}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A23FC6BB-2BF3-4F76-AF08-C0BB009D3307}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A23FC6BB-2BF3-4F76-AF08-C0BB009D3307}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A23FC6BB-2BF3-4F76-AF08-C0BB009D3307}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6E6DAB6-209C-4A58-89E9-E42F1AF50D40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6E6DAB6-209C-4A58-89E9-E42F1AF50D40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6E6DAB6-209C-4A58-89E9-E42F1AF50D40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6E6DAB6-209C-4A58-89E9-E42F1AF50D40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF031F51-B15E-4CE3-906D-5FFE6A5004A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF031F51-B15E-4CE3-906D-5FFE6A5004A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF031F51-B15E-4CE3-906D-5FFE6A5004A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF031F51-B15E-4CE3-906D-5FFE6A5004A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A158A96F-F147-4B23-8450-0C043ABBF848}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A158A96F-F147-4B23-8450-0C043ABBF848}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A158A96F-F147-4B23-8450-0C043ABBF848}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A158A96F-F147-4B23-8450-0C043ABBF848}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F9389DF-B077-4559-BBBB-BAE02D95D1AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F9389DF-B077-4559-BBBB-BAE02D95D1AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F9389DF-B077-4559-BBBB-BAE02D95D1AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F9389DF-B077-4559-BBBB-BAE02D95D1AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CD684E7-477B-4C75-92FE-BF2CC7909DF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CD684E7-477B-4C75-92FE-BF2CC7909DF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CD684E7-477B-4C75-92FE-BF2CC7909DF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CD684E7-477B-4C75-92FE-BF2CC7909DF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C32A677-9D17-45C0-8F5D-B9DF5F5DDBBF}
+	EndGlobalSection
+EndGlobal
